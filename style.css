@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+form {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #e3f2fd;
+    border-radius: 5px;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+    margin-right: 10px;
+}
+
+input, select, textarea {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    width: 120px;
+    padding: 5px;
+}
